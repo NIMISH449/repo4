@@ -1,0 +1,2 @@
+[4788:6880:1115/181503.429:VERBOSE1:installer.cc(429)] "C:\Users\Nimish Dubey\Downloads\ChromeSetup.exe" --install=appguid={8A69D345-D564-463C-AFF1-A69D9E530F96}&iid={2076C713-C938-4D47-4265-652836273C5B}&lang=en-GB&browser=4&usagestats=1&appname=Google%20Chrome&needsadmin=prefers&ap=x64-statsdef_1&installdataindex=empty --enable-logging --vmodule=*/components/winhttp/*=1,*/components/update_client/*=2,*/chrome/enterprise_companion/*=2,*/chrome/updater/*=2
+[4788:6880:1115/181544.636:VERBOSE1:installer.cc(538)] Metainstaller WMain returned: 73500, Windows error: 0
